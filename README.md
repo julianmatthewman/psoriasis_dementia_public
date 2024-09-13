@@ -1,4 +1,5 @@
 # Code and codelists for "Psoriasis and dementia: a population-based matched cohort study of adults in England"
+[![DOI](https://zenodo.org/badge/856962000.svg)](https://zenodo.org/doi/10.5281/zenodo.13759971)
 
 ## How to run
 
