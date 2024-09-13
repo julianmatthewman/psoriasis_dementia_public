@@ -1,0 +1,12 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+K50,K50,DEFAULT,3,Crohn disease [regional enteritis],,,,NA,NA,NA,
+K50.0,K500,DEFAULT,3,Crohn disease of small intestine,,,,NA,NA,NA,
+K50.1,K501,DEFAULT,3,Crohn disease of large intestine,,,,NA,NA,NA,
+K50.8,K508,DEFAULT,3,Other Crohn disease,,,,NA,NA,NA,
+K50.9,K509,DEFAULT,3,"Crohn disease, unspecified",,,,NA,NA,NA,
+K51,K51,DEFAULT,3,Ulcerative colitis,,,,NA,NA,NA,
+K51.0,K510,DEFAULT,3,Ulcerative (chronic) pancolitis,,,,NA,NA,NA,
+K51.2,K512,DEFAULT,3,Ulcerative (chronic) proctitis,,,,NA,NA,NA,
+K51.3,K513,DEFAULT,3,Ulcerative (chronic) rectosigmoiditis,,,,NA,NA,NA,
+K51.8,K518,DEFAULT,3,Other ulcerative colitis,,,,NA,NA,NA,
+K51.9,K519,DEFAULT,3,"Ulcerative colitis, unspecified",,,,NA,NA,NA,

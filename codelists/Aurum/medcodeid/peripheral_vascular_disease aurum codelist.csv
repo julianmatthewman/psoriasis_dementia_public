@@ -1,0 +1,36 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+92070010,5000,G670,G670.00,Cerebral atherosclerosis,55382008,92070010,,32
+254183016,300000,24E9,24E9.00,On examination - right dorsalis pedis pulse absent,163109009,2667842012,,27
+254207011,300000,24F9,24F9.00,On examination - left dorsalis pedis absent,163121008,2667525012,,27
+292523015,700,C107z,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder,421895002,2618203015,,32
+300510018,1000,G73y,G73y.00,Other specified peripheral vascular disease,400047006,1779317016,,32
+300511019,70,G73y1,G73y100,Peripheral angiopathic disease EC NOS,400047006,1779317016,,32
+300514010,6000,G73yz,G73yz00,Other specified peripheral vascular disease NOS,400047006,1779317016,,32
+300515011,100000,G73zz,G73zz00,Peripheral vascular disease NOS,400047006,1779317016,,32
+300963017,300,Gyu74,Gyu7400,[X]Other specified peripheral vascular diseases,400047006,1779317016,,32
+300970017,30,Gyu7A,Gyu7A00,[X]Peripheral angiopathy in diseases classified elsewhere,400047006,1779317016,,32
+309177010,20000,M2710,M271000,Ischaemic ulcer diabetic foot,201250006,309177010,,32
+350533013,9000,G73-3,G73..13,Peripheral ischaemia,233958001,350533013,,32
+350535018,10000,G73-1,G73..11,Peripheral ischaemic vascular disease,233958001,350535018,,32
+395791015,80000,G73,G73..00,Other peripheral vascular disease,400047006,1779317016,,32
+451377014,100000,24EA,24EA.00,O/E - Absent right foot pulses,308072006,451377014,,27
+459306016,60,C10FF-1,C10FF11,Type II diabetes mellitus with peripheral angiopathy,314902007,459306016,,32
+459308015,300,C10FF,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,314902007,459308015,,32
+2159240010,30000,24EC,24EC.00,O/E - Right dorsalis pedis abnormal,407640009,2159240010,,27
+13791000006111,30,C107y,C107y00,Other specified diabetes mellitus with periph circ comps,421895002,2618203015,,32
+84591000006119,8,C109F-2,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,314902007,459308015,,32
+84961000006116,20,C109F-1,C109F11,Type II diabetes mellitus with peripheral angiopathy,314902007,459306016,,32
+213421000006113,400,G670-1,G670.11,Precerebral atherosclerosis,55382008,92070010,,32
+235911000006116,500000,G73z,G73z.00,Peripheral vascular disease,400047006,1779317016,,32
+280561000006111,90,C109F,C109F00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy,314902007,459307013,,32
+616351000006115,400,C107-1,C107.11,Diabetes mellitus with gangrene,422275004,2616612015,,32
+616441000006113,5000,C107,C107.00,Peripheral vascular disorder due to diabetes mellitus,421895002,3688501014,,32
+616831000006118,500,C107-2,C107.12,Diabetes with gangrene,422275004,2616612015,,32
+742481000006118,30000,G73-2,G73..12,Ischaemic leg,233961000,350546015,,32
+771351000006111,20,C1086,C108600,Insulin dependent diabetes mellitus with gangrene,422275004,2616612015,,32
+772141000006118,5,C108G,C108G00,Insulin dependent diab mell with peripheral angiopathy,421895002,2618203015,,32
+787101000006114,100,C1073,C107300,IDDM with peripheral circulatory disorder,421895002,2618203015,,32
+881511000006113,700,C107-99,C107.99,Diabetes + periph.circulat.dis,422275004,881511000006113,,32
+884541000006110,300,G670-99,G670.99,Cerebral arteriosclerosis,55382008,884541000006110,,32
+913621000006112,30,C10E6-2,C10E612,Insulin dependent diabetes mellitus with gangrene,422275004,2616612015,,32
+913921000006119,6,C10EG-2,C10EG12,Insulin dependent diab mell with peripheral angiopathy,421895002,2618203015,,32

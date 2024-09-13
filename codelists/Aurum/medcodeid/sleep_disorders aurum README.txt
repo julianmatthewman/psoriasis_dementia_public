@@ -1,0 +1,1 @@
+Identified initial terms from CPRD GOLD codelist, and searched for Readcode and SNOMED concept ID descendants.

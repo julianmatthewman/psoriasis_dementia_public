@@ -1,0 +1,9 @@
+searchterms,exclusionterms,searched_in_column,searchmethod
+hearing loss,FH,description,termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)
+deaf,family history,,
+hearing impair,welfare,,
+impaired hearing,does not use,,
+Presbyacusi,,,
+Problems with hearing,,,
+hearing difficult,,,
+hearing aid,,,

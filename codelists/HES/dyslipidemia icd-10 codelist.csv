@@ -1,0 +1,5 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+E78,E78,DEFAULT,3,Disorders of lipoprotein metabolism and other lipidaemias,,,,NA,NA,NA,
+E78.2,E782,DEFAULT,3,Mixed hyperlipidaemia,,,,NA,NA,NA,
+E78.4,E784,DEFAULT,3,Other hyperlipidaemia,,,,NA,NA,NA,
+E78.5,E785,DEFAULT,3,"Hyperlipidaemia, unspecified",,,,NA,NA,NA,

@@ -1,0 +1,7 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+79738014,100000,M2000,M200000,Hard corn,47850008,79738014,,32
+250628019,60000,13G8,13G8.00,Domiciliary chiropody,160779001,250628019,,17
+285270010,100000,9N08,9N08.00,Seen in chiropody clinic,185269006,285270010,,37
+308837013,100000,M20,M20..00,Corns and callosities,201037000,308836016,,32
+153541000006114,40000,9N1y7,9N1y700,Seen in chiropody clinic,185269006,285270010,,37
+889361000006115,10000,M20-99,M20..99,Corn/callosity,201037000,889361000006115,,32

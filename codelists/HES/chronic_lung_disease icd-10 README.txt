@@ -1,0 +1,1 @@
+Used same searchterms as for Aurum codelist and searched for descendants.

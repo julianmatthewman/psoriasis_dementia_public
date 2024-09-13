@@ -1,0 +1,32 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+I12.0,I120,DEFAULT,3,Hypertensive renal disease with renal failure,,,,NA,NA,NA,
+I13.10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+I13.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N03.2,N032,DEFAULT,3,Chronic nephritic syndrome,Diffuse membranous glomerulonephritis,,,NA,NA,NA,
+N03.3,N033,DEFAULT,3,Chronic nephritic syndrome,Diffuse mesangial proliferative glomerulonephritis,,,NA,NA,NA,
+N03.4,N034,DEFAULT,3,Chronic nephritic syndrome,Diffuse endocapillary proliferative glomerulonephritis,,,NA,NA,NA,
+N03.5,N035,DEFAULT,3,Chronic nephritic syndrome,Diffuse mesangiocapillary glomerulonephritis,,,NA,NA,NA,
+N03.6,N036,DEFAULT,3,Chronic nephritic syndrome,Dense deposit disease,,,NA,NA,NA,
+N03.7,N037,DEFAULT,3,Chronic nephritic syndrome,Diffuse crescentic glomerulonephritis,,,NA,NA,NA,
+N05.2,N052,DEFAULT,3,Unspecified nephritic syndrome,Diffuse membranous glomerulonephritis,,,NA,NA,NA,
+N05.3,N053,DEFAULT,3,Unspecified nephritic syndrome,Diffuse mesangial proliferative glomerulonephritis,,,NA,NA,NA,
+N05.4,N054,DEFAULT,3,Unspecified nephritic syndrome,Diffuse endocapillary proliferative glomerulonephritis,,,NA,NA,NA,
+N05.5,N055,DEFAULT,3,Unspecified nephritic syndrome,Diffuse mesangiocapillary glomerulonephritis,,,NA,NA,NA,
+N05.6,N056,DEFAULT,3,Unspecified nephritic syndrome,Dense deposit disease,,,NA,NA,NA,
+N05.7,N057,DEFAULT,3,Unspecified nephritic syndrome,Diffuse crescentic glomerulonephritis,,,NA,NA,NA,
+N18.1,N181,DEFAULT,3,"Chronic kidney disease, stage 1",,,,NA,NA,NA,
+N18.2,N182,DEFAULT,3,"Chronic kidney disease, stage 2",,,,NA,NA,NA,
+N18.30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N18.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N18.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N18.4,N184,DEFAULT,3,"Chronic kidney disease, stage 4",,,,NA,NA,NA,
+N18.5,N185,DEFAULT,3,"Chronic kidney disease, stage 5",,,,NA,NA,NA,
+N18.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N18.9,N189,DEFAULT,3,"Chronic kidney disease, unspecified",,,,NA,NA,NA,
+N19,N19X,DEFAULT,3,Unspecified kidney failure,,,,NA,NA,NA,
+N25.0,N250,DEFAULT,3,Renal osteodystrophy,,,,NA,NA,NA,
+Z49.0,Z490,DEFAULT,0,Preparatory care for dialysis,,,,NA,NA,NA,
+Z49.1,Z491,DEFAULT,0,Extracorporeal dialysis,,,,NA,NA,NA,
+Z49.2,Z492,DEFAULT,0,Other dialysis,,,,NA,NA,NA,
+Z94.0,Z940,DEFAULT,0,Kidney transplant status,,,,NA,NA,NA,
+Z99.2,Z992,DEFAULT,0,Dependence on renal dialysis,,,,NA,NA,NA,

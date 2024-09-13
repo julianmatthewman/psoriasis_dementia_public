@@ -1,0 +1,7 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+299990018,50000,G5413,G541300,Aortic valve stenosis,60573004,100633013,,32
+300012015,700,G543z,G543z00,Pulmonary valve disorders NOS,76267008,126662012,,32
+300895015,500,Gyu58,Gyu5800,Pulmonary valve disorder,76267008,126662012,,32
+1232103019,300000,G5415,G541500,Aortic valve stenosis,60573004,100633013,,32
+193991000006118,2000,G543,G543.00,Pulmonary valve disease,76267008,1233968015,,32
+424311000006118,30,Gyu5C,Gyu5C00,[X]Pulmonary valve disorders in diseases CE,76267008,126662012,,32

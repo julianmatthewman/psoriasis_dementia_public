@@ -1,0 +1,2 @@
+Only includes Ultraviolet B and Psoralen + Ultraviolet A therapies as per https://www.psoriasis.org/phototherapy/ and https://www.psoriasis.org/phototherapy/
+Does not include visible light therapies, radiation, Ultraviolet A without psoralen

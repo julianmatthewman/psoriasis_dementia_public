@@ -1,0 +1,9 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+I63.6,I636,DEFAULT,3,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",,,,NA,25,NA,
+I67.6,I676,DEFAULT,3,Nonpyogenic thrombosis of intracranial venous system,,,,NA,NA,NA,
+I80.1,I801,DEFAULT,3,Phlebitis and thrombophlebitis of femoral vein,,,,NA,NA,NA,
+I80.2,I802,DEFAULT,3,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,,,,NA,NA,NA,
+I81,I81X,DEFAULT,3,Portal vein thrombosis,,,,NA,NA,NA,
+I82.0,I820,DEFAULT,3,Budd-Chiari syndrome,,,,NA,NA,NA,
+I82.2,I822,DEFAULT,3,Embolism and thrombosis of vena cava,,,,NA,NA,NA,
+I82.3,I823,DEFAULT,3,Embolism and thrombosis of renal vein,,,,NA,NA,NA,

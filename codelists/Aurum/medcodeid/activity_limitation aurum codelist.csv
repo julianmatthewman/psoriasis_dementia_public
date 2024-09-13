@@ -1,0 +1,7 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+35523013,70000,13VC,13VC.00,Disability,21134002,35523013,,17
+251027018,70000,13O5,13O5.00,Attendance allowance,160983005,251027018,,17
+251107017,10000,13VCZ,13VCZ00,Disability NOS,21134002,35523013,,17
+1221287015,10000,13V8,13V8.00,Has disabled driver badge,161041005,1221287015,,17
+622411000006116,8000,13VC-1,13VC.11,Disabled,21134002,35523013,,17
+631591000006116,200000,9EB5,9EB5.00,Completion of DS1500 terminal illness medical report,514591000000108,1144301000000113,,37

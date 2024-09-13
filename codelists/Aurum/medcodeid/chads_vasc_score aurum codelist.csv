@@ -1,0 +1,3 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+1678621000006111,600000,38DE,38DE.00,"CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score",763008007,3637565018,,3
+1782641000006118,1000000,38DE0,38DE000,"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score",735259005,3513891017,,32

@@ -1,0 +1,270 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+105227013,20000,K100,K100.00,Chronic pyelonephritis,63302006,105227013,,32
+106291000006118,8,7L1A0-1,7L1A011,Thomas intravascular shunt for dialysis,302497006,444203017,,32
+114310015,9000,K01x4-1,K01x411,Lupus nephritis,68815009,114310015,,32
+117168016,5000,7B00-98,7B00.98,Renal transplant,70536003,117168016,,32
+118218017,20000,7L1A1,7L1A100,Peritoneal dialysis,71192002,118218017,,32
+1227722017,50,ZV560-1,ZV56011,[V]Aftercare involving renal dialysis NOS,410511000000103,1008481000000119,,32
+1227723010,50,ZV56y-1,ZV56y11,[V]Aftercare involving peritoneal dialysis,426351000000102,1008501000000111,,32
+127091000006118,700,K013-2,K013.12,Steroid-sensitive nephrotic syndrome,236380004,354331019,,32
+12717101000006112,30,^ESCT1271710,,"Nephritis, nephrosis and nephrotic syndrome",197577008,303806010,,32
+1550021000006110,1,7B0Fy,7B0Fy00,OS interventions associated with transplantation of kidney,711446003,3078450015,,32
+1705621000000113,50,7L1B2,7L1B200,Flushing of peritoneal dialysis catheter,238317004,1705621000000113,,32
+1743241000006119,10,SP06B,SP06B00,Continuous ambulatory peritoneal dialysis associated peritonitis,699235009,2983127018,,32
+176711000006111,70,TB11-1,TB11.11,"Renal dialysis with complication, without blame",116223007,178923014,,32
+177251000006119,2000,TB001-1,TB00111,"Renal transplant with complication, without blame",88797001,147234011,,32
+181021000006119,1000,7L1B1,7L1B100,Removal of ambulatory peritoneal dialysis catheter,180273006,278840017,,32
+1847541000006113,30,K01w1-2,K01w112,Wilms' tumour and nephrotic syndrome with pseudohermaphroditism,236385009,354342011,,32
+1848741000006116,40,SP0E,SP0E.00,Complication of peritoneal dialysis,33461007,55841017,,32
+1905531000006112,8,7B019,7B01900,Excision of rejected transplanted kidney,284348003,422992018,,32
+1940501000006119,3000,1Z1a,1Z1a.00,CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1,950181000000106,2428021000000111,,27
+1940511000006116,4000,1Z1b,1Z1b.00,CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2,950211000000107,2428091000000114,,27
+1940521000006112,4000,1Z1c,1Z1c.00,CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3,950231000000104,2428141000000115,,27
+1940531000006110,300,1Z1d,1Z1d.00,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1,950251000000106,2428191000000113,,27
+1940541000006117,400,1Z1e,1Z1e.00,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2,950291000000103,2428281000000117,,27
+1940551000006115,1000,1Z1f,1Z1f.00,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3,950311000000102,2428331000000110,,27
+1940621000006111,30000,1Z1T,1Z1T.00,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1,949881000000106,2427381000000110,,27
+1940631000006114,10000,1Z1V,1Z1V.00,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2,949901000000109,2427401000000110,,27
+1940641000006116,3000,1Z1W,1Z1W.00,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,949921000000100,2427451000000111,,27
+1940651000006119,10000,1Z1X,1Z1X.00,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,950061000000103,2427751000000117,,27
+1940661000006117,8000,1Z1Y,1Z1Y.00,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,950081000000107,2427801000000112,,27
+1940671000006112,4000,1Z1Z,1Z1Z.00,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3,950101000000101,2427851000000113,,27
+2189151000000117,10,SP08T,SP08T00,Urological complication of renal transplant,843691000000100,2189151000000117,,32
+2191221000000118,5,SP08W,SP08W00,Vascular complication of renal transplant,844661000000109,2191221000000118,,32
+2211311000000117,4,SP0F,SP0F.00,Haemodialysis first use syndrome,236539007,2211311000000117,,32
+2211591000000116,8,SP0E1,SP0E100,Thrombus in peritoneal dialysis catheter,854131000000107,2211591000000116,,32
+2211671000000119,10,SP0G,SP0G.00,Anaphylactoid reaction due to haemodialysis,854161000000102,2211671000000119,,32
+2221251000000115,200,67P41,67P4100,Discussion about kidney transplantation,858421000000106,2221251000000115,,17
+228101000006113,50,7L1B,7L1B.00,Placement ambulatory apparatus compensation renal failure,180272001,278839019,,32
+228121000006115,10,7L1By,7L1By00,Placement ambulatory apparatus- compensate renal failure OS,271418008,406192014,,32
+228131000006117,40,7L1B-1,7L1B.11,Placement ambulatory dialysis apparatus - compens renal fail,180272001,278839019,,32
+251956015,300,14V2-1,14V2.11,H/O: kidney dialysis,161693006,251956015,,32
+251957012,3000,14V2,14V2.00,H/O: renal dialysis,161693006,251957012,,32
+261136015,70,4I29,4I29.00,Peritoneal dialysis sample,168140004,261136015,,20
+2672571000006112,10,^ESCTRE267257,,Removal of peritoneal dialysis catheter,10848006,18842012,,31
+2674486017,30,7L1f0,7L1f000,Extracorporeal albumin haemodialysis,427053002,2674486017,,32
+2692168016,100,7L1A4,7L1A400,Automated peritoneal dialysis,428648006,2692168016,,32
+272325018,6000,7B002-2,7B00212,Cadaveric renal transplant,175902000,272325018,,32
+272326017,100,7B00y,7B00y00,Other specified transplantation of kidney,70536003,117163013,,32
+272327014,6000,7B00z,7B00z00,Transplantation of kidney NOS,70536003,501594013,,32
+272389014,800,7B063,7B06300,Exploration of renal transplant,175948009,272389014,,32
+2767154014,2000,K055,K055.00,Chronic kidney disease stage 5,433146000,2767154014,,32
+2767385013,3000,K054,K054.00,Chronic kidney disease stage 4,431857002,2767385013,,32
+2773184015,20000,K053,K053.00,Chronic kidney disease stage 3,433144002,2773184015,,32
+278832011,40000,7L1A2,7L1A200,Haemodialysis,302497006,444203017,,32
+278834012,20,7L1Ay,7L1Ay00,Other specified compensation for renal failure,265763003,394639018,,32
+278835013,10,7L1Az,7L1Az00,Compensation for renal failure NOS,265764009,394640016,,32
+278844014,1000,7L1C0,7L1C000,Insertion of temporary peritoneal dialysis catheter,180277007,278844014,,32
+284213011,4000,8L50,8L50.00,Renal transplant planned,183985008,284213011,,32
+290737016,400,8DD,,Dependence on renal dialysis,105502003,290737016,,32
+303806010,3000,K0,K0...00,"Nephritis, nephrosis and nephrotic syndrome",197577008,303806010,,32
+303825013,300,K010,K010.00,Nephrotic syndrome with proliferative glomerulonephritis,197589005,303825013,,32
+303826014,6000,K011,K011.00,Nephrotic syndrome with membranous glomerulonephritis,197590001,303826014,,32
+303832016,400,K014,K014.00,"Nephrotic syndrome, minor glomerular abnormality",197593004,303832016,,32
+303833014,2000,K015,K015.00,"Nephrotic syndrome, focal and segmental glomerular lesions",197594005,303833014,,32
+303834015,1000,K016,K016.00,"Nephrotic syndrome, diffuse membranous glomerulonephritis",197595006,303834015,,32
+303838017,30,K01A,K01A.00,"Nephrotic syndrome, dense deposit disease",197599000,303838017,,32
+303839013,500,K01B,K01B.00,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",197600002,303839013,,32
+303843012,50,K01wz,K01wz00,Congenital nephrotic syndrome NOS,48796009,81307015,,32
+303844018,200,K01x,K01x.00,Nephrotic syndrome in diseases EC,197603000,303844018,,32
+303845017,600,K01x0,K01x000,Nephrotic syndrome in amyloidosis,197604006,303845017,,32
+303846016,700,K01x1,K01x100,Nephrotic syndrome in diabetes mellitus,197605007,303846016,,32
+303847013,20,K01x1-1,K01x111,Kimmelstiel - Wilson disease,197605007,303847013,,32
+303848015,7,K01x2,K01x200,Nephrotic syndrome in malaria,197606008,303848015,,32
+303849011,20,K01x3,K01x300,Nephrotic syndrome in polyarteritis nodosa,197607004,303849011,,32
+303853013,50,K01xz,K01xz00,Nephrotic syndrome associated with another disorder,197603000,2575708013,,32
+303854019,20,K01y,K01y.00,Nephrotic syndrome with other pathological kidney lesions,52254009,86957016,,32
+303855018,3000,K01z,K01z.00,Nephrotic syndrome NOS,52254009,86957016,,32
+303863017,40,K023,K023.00,Chronic rapidly progressive glomerulonephritis,236392004,354352010,,32
+303864011,300,K02y,K02y.00,Other chronic glomerulonephritis,20917003,35171019,,32
+303867016,1000,K02y2,K02y200,Chronic focal glomerulonephritis,197618004,303867016,,32
+303868014,80,K02y3,K02y300,Chronic diffuse glomerulonephritis,197619007,303868014,,32
+303869018,100,K02yz,K02yz00,Other chronic glomerulonephritis NOS,20917003,35171019,,32
+303870017,800,K02z,K02z.00,Chronic glomerulonephritis NOS,20917003,35171019,,32
+304056012,200,K0y,K0y..00,"Other specified nephritis, nephrosis or nephrotic syndrome",90708001,150315015,,32
+304058013,5000,K0z,K0z..00,"Nephritis, nephrosis and nephrotic syndrome NOS",90708001,150315015,,32
+304060010,10,K1000,K100000,Chronic pyelonephritis without medullary necrosis,197760006,304060010,,32
+304061014,70,K1001,K100100,Chronic pyelonephritis with medullary necrosis,197761005,304061014,,32
+304062019,600,K1002,K100200,Chronic pyelitis,197762003,304062019,,32
+304063012,100,K1003,K100300,Chronic pyonephrosis,197763008,304063012,,32
+304067013,800,K100z,K100z00,Chronic pyelonephritis NOS,63302006,105227013,,32
+304071000000115,3000000,1Z12,1Z12.00,Chronic kidney disease stage 3,433144002,2773184015,,32
+304091000000116,600000,1Z13,1Z13.00,Chronic kidney disease stage 4,431857002,2767385013,,32
+304111000000114,200000,1Z14,1Z14.00,Chronic kidney disease stage 5,433146000,2767154014,,32
+3135211000006116,1,^ESCTRE313521,,Removal of arteriovenous shunt for renal dialysis,39482009,66225019,,31
+3222371000006111,2,^ESCTMI322237,,Minimal change nephrotic syndrome,44785005,1230131018,,32
+324973015,2000,SP083,SP08300,Kidney transplant failure and rejection,213150003,324973015,,32
+329116017,3,TA220,TA22000,Failure of sterile precautions during kidney dialysis,216933008,329116017,,32
+3347091000006118,1,^ESCTNS334709,,NS - Nephrotic syndrome,52254009,1231098019,,32
+3468091000006118,1,^ESCTHA346809,,Haemodialysis training at home,59596005,498484017,,31
+349998013,600,7L1A3,7L1A300,Haemofiltration,233581009,349998013,,32
+35171019,20000,K02,K02..00,Chronic glomerulonephritis,20917003,35171019,,32
+3525746015,3,^ESCT1167149,,Insertion of haemodialysis catheter,736919006,3525746015,,31
+3525758015,1,^ESCT1167156,,Insertion of tunneled hemodialysis catheter,736922008,3525758015,,31
+3525759011,6,^ESCT1167155,,Insertion of tunnelled haemodialysis catheter,736922008,3525759011,,31
+3527360016,1,^ESCT1167612,,Transplanted kidney present,737295003,3527360016,,31
+353974015,200,7B006,7B00600,Xenograft renal transplant,236138007,353974015,,32
+354330018,200,K1005,K100500,Chronic obstructive pyelonephritis,236379002,354330018,,32
+354340015,50,K01w2,K01w200,Congenital nephrotic syndrome with focal glomerulosclerosis,236384008,354340015,,32
+354343018,40,K01w1,K01w100,Drash syndrome,236385009,354343018,,32
+354399015,800,K024,K024.00,Thin basement membrane disease,236418003,354399015,,32
+354610013,400,SP08R,SP08R00,Renal transplant rejection,236570004,354610013,,32
+354612017,10,SP08C,SP08C00,Accelerated rejection of renal transplant,236572007,354612017,,32
+354613010,10,SP08V,SP08V00,Very mild acute rejection of renal transplant,236573002,354613010,,32
+354615015,300,SP08H,SP08H00,Acute rejection of renal transplant,236574008,354615015,,32
+354616019,40,SP08E,SP08E00,Acute rejection of renal transplant - grade I,236575009,354616019,,32
+354617011,6,SP08F,SP08F00,Acute rejection of renal transplant - grade II,236576005,354617011,,32
+354618018,4,SP08G,SP08G00,Acute rejection of renal transplant - grade III,236577001,354618018,,32
+354619014,100,SP08J,SP08J00,Chronic rejection of renal transplant,236578006,354619014,,32
+354623018,9,SP08K,SP08K00,Chronic rejection of renal transplant - grade 1,236579003,354623018,,32
+354624012,3,SP08L,SP08L00,Chronic rejection of renal transplant - grade II,236580000,354624012,,32
+354627017,2,SP08M,SP08M00,Chronic rejection of renal transplant - grade III,236581001,354627017,,32
+354628010,20,SP08D,SP08D00,Acute-on-chronic rejection of renal transplant,236582008,354628010,,32
+357219012,1000,7L1A5,7L1A500,Continuous ambulatory peritoneal dialysis,238318009,357219012,,32
+3605671000006116,2,^ESCTHA360567,,"Haemodialysis, maintenance at home",67970008,500883012,,31
+3647021000006114,500,^ESCTTR364702,,Transplant of kidney,70536003,117163013,,32
+3647031000006112,1,^ESCTKI364703,,Kidney transplantation,70536003,117167014,,32
+3647051000006117,9,^ESCTTX364705,,Tx - Renal transplantation,70536003,501591017,,32
+3647061000006115,40,^ESCTKI364706,,Kidney transplant,70536003,501592012,,32
+3653841000006116,1,^ESCTTR365384,,Transplanted kidney,70948008,117847019,,31
+366671000000118,20,7B0F,7B0F.00,Interventions associated with transplantation of kidney,711446003,3078450015,,32
+375841000000114,400,7L1A6,7L1A600,Peritoneal dialysis NEC,71192002,118218017,,32
+3798201000006112,3,^ESCTFO379820,,Formation of arteriovenous fistula for kidney dialysis,79827002,132444017,,31
+3798211000006110,1,^ESCTAR379821,,Arteriovenous shunt for renal dialysis,79827002,132445016,,31
+380061000000118,20,7B0Fz,7B0Fz00,Interventions associated with transplantation of kidney NOS,711446003,3078450015,,32
+380101000000116,30,7B0F3,7B0F300,Examination of recipient after kidney transplant,428645009,2693113012,,32
+394639018,1000,7L1A,7L1A.00,Compensation for renal failure,265763003,394639018,,32
+394640016,20000,7L1A0,7L1A000,Renal dialysis,265764009,394640016,,32
+396706011,3000,K013,K013.00,Nephrotic syndrome with minimal change glomerulonephritis,266549004,396706011,,32
+39884018,2000,K1006,K100600,Calculous pyelonephritis,23754003,39884018,,32
+413415016,90,SP08N,SP08N00,Unexplained episode of renal transplant dysfunction,277010001,413415016,,32
+422992018,30,7B015-1,7B01511,Excision of rejected transplanted kidney,284348003,422992018,,32
+441151000006115,2,TA020,TA02000,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis",216878005,329026014,,32
+441161000006118,2,TA02,TA02.00,"Accid cut,puncture,perf,h'ge - kidney dialysis/oth perfusion",269691005,404223019,,32
+446291000006111,1,TA020-1,TA02011,Accidental cut/puncture/perf/haem'ge during renal dialysis,216878005,329026014,,32
+453312018,700,SP056-3,SP05613,Peritoneal dialysis-associated peritonitis,276883000,413231010,,32
+460644012,20000,ZV420,ZV42000,History of renal transplant,161665007,2793932016,,32
+4669451000006113,4,^ESCTEX466945,,Exploration of kidney transplant,175948009,272390017,,32
+4694051000006116,200,^ESCTRE469405,,Removal of chronic ambulatory peritoneal dialysis catheter,180273006,278840017,,32
+4789231000006111,50,^ESCTNO478923,,Non-obstructive reflux-associated chronic pyelonephritis,197764002,304064018,,32
+4938591000006118,1,^ESCTWA493859,,Washing back through haemodialysis lines,225282005,338536011,,31
+501594013,100000,7B00,7B00.00,Transplantation of kidney,70536003,501594013,,32
+5052661000006111,1,^ESCTIN505266,,Intermittent haemodialysis,233575001,349977013,,31
+5093351000006116,2,^ESCTST509335,,Steroid-resistant nephrotic syndrome,236381000,354336012,,31
+5093381000006112,2,^ESCTST509338,,Steroid-dependent nephrotic syndrome,236382007,354337015,,31
+5093391000006110,1,^ESCTSD509339,,SDNS - Steroid-dependent nephrotic syndrome,236382007,354338013,,31
+5094171000006114,8,^ESCTEN509417,,End stage renal failure with renal transplant,236436003,354420011,,31
+5095881000006119,2,^ESCTPE509588,,Peritoneal dialysis catheter exit site infection,236557008,354592011,,31
+5095941000006115,3,^ESCTDI509594,,Disorder of peritoneal dialysis catheter,236561002,354598010,,31
+5095971000006111,1,^ESCTBL509597,,Blockage of peritoneal dialysis catheter,236562009,354600016,,31
+5096031000006117,2,^ESCTPR509603,,Primary non-function of renal transplant,236569000,354609015,,31
+5096231000006110,8,^ESCTFA509623,,Failed renal transplant,236583003,354629019,,31
+5120131000006116,1,^ESCTAS512013,,Aspiration of chronic ambulatory peritoneal dialysis catheter,238316008,357217014,,31
+5120141000006114,20,^ESCTFL512014,,Flushing of chronic ambulatory peritoneal dialysis catheter,238317004,357218016,,32
+5120171000006118,20,^ESCTCA512017,,CAPD - Continuous ambulatory peritoneal dialysis,238318009,357220018,,32
+5120251000006115,3,^ESCTNI512025,,Night-time intermittent peritoneal dialysis,238323009,357229017,,31
+5161281000006112,2,^ESCTUS516128,,US scan of transplant kidney,241484009,361595010,,31
+5161291000006110,1,^ESCTUL516129,,Ultrasound scan of transplant kidney,241484009,2619719015,,31
+5191471000006111,1,^ESCTAR519147,,Arterial port blood sampling during haemodialysis,243778000,364604011,,31
+5191491000006112,3,^ESCTVE519149,,Venous port blood sampling during haemodialysis,243779008,364605012,,31
+5488801000006112,1,^ESCTKI548880,,Kidney dialysis,265764009,394641017,,32
+554481000006111,20,K02y0,K02y000,Chronic glomerulonephritis + diseases EC,197616000,303865012,,32
+555191000006119,900,K022,K022.00,Membranoproliferative glomerulonephritis,80321008,133282018,,32
+555201000006116,4000,K021,K021.00,Chronic membranous glomerulonephritis,77182004,128137019,,32
+556211000006112,900,K020,K020.00,Chronic proliferative glomerulonephritis,197613008,303862010,,32
+557811000000119,200000,1Z15,1Z15.00,Chronic kidney disease stage 3A,700378005,2990386017,,27
+557831000000110,70000,1Z16,1Z16.00,Chronic kidney disease stage 3B,700379002,2990361014,,27
+5647621000006110,1,^ESCTEN564762,,Entire transplant kidney,281112005,3329266012,,31
+585761000006118,600,K1004,K100400,Nonobstructive reflux-associated chronic pyelonephritis,197764002,304064018,,32
+5907591000006115,4,^ESCTHE590759,,Hemodialysis,302497006,444206013,,32
+595811000000117,30000,1Z1B,1Z1B.00,Chronic kidney disease stage 3 with proteinuria,324251000000105,595811000000117,,27
+595871000000110,100000,1Z1C,1Z1C.00,Chronic kidney disease stage 3 without proteinuria,324281000000104,595871000000110,,27
+595931000000116,20000,1Z1D,1Z1D.00,Chronic kidney disease stage 3A with proteinuria,324311000000101,595931000000116,,27
+595991000000115,100000,1Z1E,1Z1E.00,Chronic kidney disease stage 3A without proteinuria,324341000000100,595991000000115,,27
+596051000000115,20000,1Z1F,1Z1F.00,Chronic kidney disease stage 3B with proteinuria,324371000000106,596051000000115,,27
+596131000000114,40000,1Z1G,1Z1G.00,Chronic kidney disease stage 3B without proteinuria,324411000000105,596131000000114,,27
+596191000000110,20000,1Z1H,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,324441000000106,596191000000110,,27
+596261000000111,20000,1Z1J,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,324471000000100,596261000000111,,27
+596321000000110,6000,1Z1K,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,324501000000107,596321000000110,,27
+596401000000111,3000,1Z1L,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,324541000000105,596401000000111,,27
+618431000000114,10000,1Z1B-1,1Z1B.11,CKD stage 3 with proteinuria,324251000000105,618431000000114,,27
+618441000000117,30000,1Z1C-1,1Z1C.11,CKD stage 3 without proteinuria,324281000000104,618441000000117,,27
+618451000000119,6000,1Z1D-1,1Z1D.11,CKD stage 3A with proteinuria,324311000000101,618451000000119,,27
+618461000000116,30000,1Z1E-1,1Z1E.11,CKD stage 3A without proteinuria,324341000000100,618461000000116,,27
+618471000000111,7000,1Z1F-1,1Z1F.11,CKD stage 3B with proteinuria,324371000000106,618471000000111,,27
+618481000000113,10000,1Z1G-1,1Z1G.11,CKD stage 3B without proteinuria,324411000000105,618481000000113,,27
+618491000000110,10000,1Z1H-1,1Z1H.11,CKD stage 4 with proteinuria,324441000000106,618491000000110,,27
+618501000000116,7000,1Z1J-1,1Z1J.11,CKD stage 4 without proteinuria,324471000000100,618501000000116,,27
+618511000000119,3000,1Z1K-1,1Z1K.11,CKD stage 5 with proteinuria,324501000000107,618511000000119,,27
+618521000000113,1000,1Z1L-1,1Z1L.11,CKD stage 5 without proteinuria,324541000000105,618521000000113,,27
+619541000006116,10000,7L1A-1,7L1A.11,Dialysis for renal failure,265764009,394640016,,32
+6210341000006119,8,^ESCTPE621034,,Peritoneal dialysis catheter,360132007,475787016,,31
+663551000006118,1,TA220-1,TA22011,Failure of sterile precautions during renal dialysis,216933008,329116017,,32
+677461000006115,700,K017,K017.00,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",197596007,303835019,,32
+677471000006110,300,K019,K019.00,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",197598008,303837010,,32
+677481000006113,7,K018,K018.00,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",197597003,303836018,,32
+677561000006119,800,K01x4,K01x400,Nephrotic syndrome in systemic lupus erythematosus,68815009,114310015,,32
+677621000006112,400,K012,K012.00,Nephrotic syndrome with membranoproliferative glomerulonephritis,197591002,303827017,,32
+677941000006114,2000,K02-1,K02..11,Nephritis - chronic,197707007,304004016,,32
+678061000006111,3000,K02-2,K02..12,Nephropathy - chronic,90708001,150322011,,32
+703481000006116,7,K01w0-1,K01w011,Microcystic type congenital nephrotic syndrome,197601003,303840010,,32
+7083771000006113,1,^ESCTPE708377,,Peritoneal dialysis catheter procedure,428118009,2694386012,,31
+710221000006113,100,K01w0,K01w000,Finnish congenital nephrotic syndrome,197601003,303840010,,32
+7103511000006119,1,^ESCTDI710351,,Disorder related to renal transplantation,429451003,2693948016,,31
+713611000006110,4,TA420,TA42000,Mechanical failure of instrument or apparatus during kidney dialysis,269698004,404234016,,32
+713671000006118,2,TA420-1,TA42011,Mechanical failure of apparatus during renal dialysis,269698004,404234016,,32
+7147781000006115,100,^ESCTCK714778,,CKD stage 4,431857002,2872614018,,32
+7150641000006119,1,^ESCTDO715064,,Doppler ultrasound of transplanted kidney,431988002,3307532019,,31
+7164601000006118,1,^ESCTIN716460,,Insertion of peritoneal dialysis catheter using fluoroscopy guidance,432654009,2771456010,,31
+7174791000006111,70,^ESCTCK717479,,CKD stage 3,433144002,2873059015,,32
+7174851000006111,60,^ESCTCK717485,,CKD stage 5,433146000,2870834012,,32
+7207581000006116,5,^ESCTLA720758,,Laparoscopic insertion of peritoneal dialysis catheter,438341004,2793584016,,31
+7212381000006113,3,^ESCTRE721238,,Renal transplant biopsy sample,438661003,2790986011,,31
+7218201000006110,5,^ESCTPE721820,,Peritoneal dialysis catheter in situ,439073006,2793675012,,31
+7238471000006113,2,^ESCTBI723847,,Biopsy of transplanted kidney using ultrasound guidance,440512006,2792687013,,31
+7262731000006112,1,^ESCTCL726273,,Cloudy peritoneal dialysis effluent,442326005,2820289016,,31
+7354801000006116,1,^ESCTRE735480,,Removal of hemodialysis catheter,448423006,2900466016,,31
+7401361000006113,1,^ESCTHA740136,,Haemodialysis start/stop set,462316005,2947695018,,31
+7403361000006112,1,^ESCTHA740336,,"Haemodialysis system, institutional/home-use",462550000,2946775013,,31
+7406851000006110,1,^ESCTPE740685,,Peritoneal dialysis system tubing set,462933006,2948132019,,31
+74720014,10,K013-1,K013.11,Lipoid nephrosis,44785005,74720014,,32
+7502751000006112,1,^ESCTRE750275,,Referral to surgical transplant service for renal transplant evaluation,697982000,2968385014,,31
+754061000006111,500,TB001,TB00100,"Kidney transplant with complication, without blame",88797001,147234011,,32
+754781000006116,50,TB11,TB11.00,"Kidney dialysis with complication, without blame",116223007,178923014,,32
+7641781000006113,3,^ESCTMA764178,,Maintenance haemodialysis,708931003,3036926014,,31
+7714891000006118,40,^ESCTCH771489,,Chronic kidney disease stage 5 on dialysis,714152005,3298729015,,32
+7714921000006112,1,^ESCTCH771492,,Chronic kidney disease stage 5 with transplant,714153000,3298559011,,32
+773041000006111,3000,7L1B0,7L1B000,Insertion of chronic ambulatory peritoneal dialysis catheter,180272001,278839019,,32
+7770921000006110,10,^ESCTHA777092,,Haemodialysis care,718330001,3311908017,,31
+7965521000006111,1,^ESCTHA796552,,Haemodialysis residual renal function,411000124108,3030694010,,31
+7966611000006114,3,^ESCTCH796661,,Chronic kidney disease stage 5 due to type 2 diabetes mellitus,711000119100,3013043013,,32
+7966641000006113,7,^ESCTCH796664,,Chronic kidney disease stage 4 due to type 2 diabetes mellitus,721000119107,3013100015,,32
+7966691000006116,10,^ESCTCH796669,,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,731000119105,3013103018,,32
+7985971000006118,2,^ESCTLA798597,,Laparoscopic biopsy of transplanted kidney,6501000179109,3315654019,,31
+8027451000006119,2,^ESCTCH802745,,Chronic kidney disease stage 3 due to type 1 diabetes mellitus,90741000119107,3013167015,,32
+8027491000006113,1,^ESCTCH802749,,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,90761000119106,3013545012,,32
+8030421000006114,3,^ESCTHY803042,,Hypertensive heart AND chronic kidney disease stage 4,96721000119103,2968177010,,32
+8030431000006112,1,^ESCTHY803043,,Hypertensive heart AND chronic kidney disease stage 3,96731000119100,2922231016,,32
+8040661000006119,1,^ESCTCH804066,,Chronic kidney disease stage 4 due to hypertension,129151000119102,2968350014,,32
+8040681000006112,5,^ESCTCH804068,,Chronic kidney disease stage 3 due to hypertension,129171000119106,2968262010,,32
+8044061000006119,1,^ESCTHY804406,,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,140121000119100,3013055019,,32
+8087071000006112,2,^ESCTCH808707,,Chronic kidney disease stage 3 due to benign hypertension,284991000119104,3040933017,,32
+8104231000006115,10,^ESCTCK810423,,CKD (chronic kidney disease) stage 3 with proteinuria,324251000000105,1676871000000115,,27
+8104261000006112,1,^ESCTCK810426,,CKD (chronic kidney disease) stage 3 without proteinuria,324281000000104,1676861000000110,,27
+8104301000006115,20,^ESCTCK810430,,CKD (chronic kidney disease) stage 3A with proteinuria,324311000000101,1692921000000118,,27
+8104381000006112,20,^ESCTCK810438,,CKD (chronic kidney disease) stage 3B with proteinuria,324371000000106,1692941000000113,,27
+8104451000006111,8,^ESCTCK810445,,CKD (chronic kidney disease) stage 4 with proteinuria,324441000000106,1693001000000116,,27
+8104551000006112,1,^ESCTCK810455,,CKD (chronic kidney disease) stage 5 without proteinuria,324541000000105,1692911000000112,,27
+81307015,500,K01w,K01w.00,Congenital nephrotic syndrome,48796009,81307015,,32
+8212401000006115,20,^ESCTAN821240,,Anaemia co-occurrent and due to chronic kidney disease stage 3,691421000119108,3289583012,,32
+8345931000006110,1,^ESCTCH834593,,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,949921000000100,2427481000000117,,27
+8346001000006110,1,^ESCTCH834600,,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,950061000000103,2427781000000111,,27
+8346021000006117,1,^ESCTCH834602,,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,950081000000107,2427831000000118,,27
+86957016,100000,K01,K01..00,Nephrotic syndrome,52254009,86957016,,32
+900121000006113,70,SP081-99,SP08199,Renal transplant rejected,236570004,900121000006113,,32
+90461000006118,20000,7B002,7B00200,Transplantation of kidney from cadaver,175902000,272325018,,32
+906311000006117,200,HNG0107,,[RFC] Continuous ambulatory peritoneal dialysis,906311000006101,906311000006117,,12
+906351000006116,10000,HNG0111,,[RFC] Renal transplant,906351000006100,906351000006116,,12
+988961000006115,1,SP083-99,SP08399,Renal transplant rejected,213150003,988961000006115,,32
+994421000006111,200,EMISNQCH20,,Chronic kidney disease stage 3,994421000006107,994421000006111,,27
+994441000006116,10,EMISNQCH22,,Chronic kidney disease stage 5,994441000006100,994441000006116,,27

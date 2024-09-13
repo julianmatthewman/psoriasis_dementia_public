@@ -1,0 +1,10 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+L40,L40,DEFAULT,3,Psoriasis,,,,NA,NA,NA,
+L40.0,L400,DEFAULT,3,Psoriasis vulgaris,,,,NA,NA,NA,
+L40.1,L401,DEFAULT,3,Generalized pustular psoriasis,,,,NA,NA,NA,
+L40.2,L402,DEFAULT,3,Acrodermatitis continua,,,,NA,NA,NA,
+L40.3,L403,DEFAULT,3,Pustulosis palmaris et plantaris,,,,NA,NA,NA,
+L40.4,L404,DEFAULT,3,Guttate psoriasis,,,,NA,NA,NA,
+L40.5,L405,DAGGER,1,Arthropathic psoriasis,,,M07.0^M07.00^M07.04^M07.07^M07.09^M07.1^M07.10^M07.11^M07.12^M07.13^M07.14^M07.15^M07.16^M07.17^M07.18^M07.19^M07.2^M07.20^M07.21^M07.22^M07.23^M07.24^M07.25^M07.26^M07.27^M07.28^M07.29^M07.3^M07.30^M07.31^M07.32^M07.33^M07.34^M07.35^M07.36^M07.37^M07.38^M07.39^M09.0^M09.00^M09.01^M09.02^M09.03^M09.04^M09.05^M09.06^M09.07^M09.08^M09.09,NA,NA,NA,
+L40.8,L408,DEFAULT,3,Other psoriasis,,,,NA,NA,NA,
+L40.9,L409,DEFAULT,3,"Psoriasis, unspecified",,,,NA,NA,NA,

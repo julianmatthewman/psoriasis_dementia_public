@@ -1,0 +1,6 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+I21,I21,DEFAULT,3,Acute myocardial infarction,,,,NA,NA,NA,
+I22,I22,DEFAULT,3,Subsequent myocardial infarction,,,,NA,NA,NA,
+I23,I23,DEFAULT,3,Certain current complications following acute myocardial infarction,,,,NA,NA,NA,
+I241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+I252,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

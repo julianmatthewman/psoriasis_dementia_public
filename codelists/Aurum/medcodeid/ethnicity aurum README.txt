@@ -1,0 +1,1 @@
+from https://github.com/johntaz/COVID-Collateral/blob/master/codelists/CSV/aurum_codelist_ethnicity.csv

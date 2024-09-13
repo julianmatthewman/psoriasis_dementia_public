@@ -1,0 +1,7 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+E66,E66,DEFAULT,3,Obesity,,,,NA,NA,NA,
+E66.0,E660,DEFAULT,3,Obesity due to excess calories,,,,NA,NA,NA,
+E66.1,E661,DEFAULT,3,Drug-induced obesity,,,,NA,NA,NA,
+E66.2,E662,DEFAULT,3,Extreme obesity with alveolar hypoventilation,,,,NA,NA,NA,
+E66.8,E668,DEFAULT,3,Other obesity,,,,NA,NA,NA,
+E66.9,E669,DEFAULT,3,"Obesity, unspecified",,,,NA,NA,NA,

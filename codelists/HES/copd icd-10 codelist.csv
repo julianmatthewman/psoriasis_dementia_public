@@ -1,0 +1,6 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+J40,J40X,DEFAULT,3,"Bronchitis, not specified as acute or chronic",,,,NA,15,NA,
+J41,J41,DEFAULT,3,Simple and mucopurulent chronic bronchitis,,,,NA,NA,NA,
+J42,J42X,DEFAULT,3,Unspecified chronic bronchitis,,,,NA,NA,NA,
+J43,J43,DEFAULT,3,Emphysema,,,,NA,NA,NA,
+J44,J44,DEFAULT,3,Other chronic obstructive pulmonary disease,,,,NA,NA,NA,

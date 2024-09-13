@@ -1,0 +1,37 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+252318014,1000000,16D,16D..00,Falls,161898004,252318014,,27
+327555017,10,T413,T413.00,Fall due to collision or other accident to watercraft,217082002,329286015,,32
+329287012,2000000,TC-1,TC...11,Fall - accidental,217082002,329287012,,32
+329361014,100000,TC5,TC5..00,"Fall on same level from slipping, tripping or stumbling",217154006,329361014,,32
+329367013,5000,TC5z,TC5z.00,"Fall on same level from slipping, tripping or stumbling NOS",217154006,329361014,,32
+329382015,30000,TCyz,TCyz.00,Other accidental fall NOS,217082002,329286015,,32
+329383013,100000,TCz,TCz..00,Accidental falls NOS,217082002,329286015,,32
+332841017,3000,U101,U101.00,"[X]Fall on same level from slipping, tripping and stumbling",217154006,329361014,,32
+417481019,300000,16D1,16D1.00,Recurrent falls,279992002,417481019,,27
+292031000006110,50000,R200-2,R200.12,Geriatric fall,298344006,439018012,,32
+386201000006115,30,U1011,U101100,[X]Fall same level from slip trip + stumb occ resid instit,217154006,329361014,,32
+386211000006117,200,U1014,U101400,"[X]Fall same level from slip trip+stumb, occ street/highway",217154006,329361014,,32
+386221000006113,5,U1017,U101700,"[X]Fall same level from slip trip+stumbling, occur on farm",217154006,329361014,,32
+386241000006118,30,U101y,U101y00,"[X]Fall same level, slip trip+stumb, occ other specif place",217154006,329361014,,32
+386251000006116,500,U1010,U101000,"[X]Fall same levl frm slip trip + stumb, occurrence at home",217154006,329361014,,32
+386261000006119,90,U101z,U101z00,"[X]Fall same levl frm slip trip+stumbling, occ unspec place",217154006,329361014,,32
+386331000006115,7,U1016,U101600,"[X]Fall same levl, slip trip+stumb occ indust/construct area",217154006,329361014,,32
+386341000006113,30,U1013,U101300,"[X]Fall sme levl frm slip trip+stumb, occ sport/athlet area",217154006,329361014,,32
+386351000006110,20,U1012,U101200,"[X]Fall sme levl slp trp+stmb occ sch, oth inst/pub adm area",217154006,329361014,,32
+386361000006112,20,U1015,U101500,"[X]Fall sme lvl frm slip trip+stumb, occ trade/service area",217154006,329361014,,32
+405101000000119,100000,8Hk1,8Hk1.00,Referral to falls service,247541000000106,405101000000119,,40
+406941000000112,50000,8HTl,8HTl.00,Referral to elderly falls prevention clinic,248451000000109,406941000000112,,40
+446671000006112,1000000,TC,TC...00,Accidental fall,217082002,329286015,,32
+517281000000115,20000,8O9,8O9..00,Provision of telecare community alarm service,294231000000103,517281000000115,,32
+663711000006114,2,T4132,T413200,Fall due to watercraft accid - crew other watercraft injured,217082002,329286015,,32
+663721000006118,1,T4136,T413600,Fall due to watercraft accid - docker or stevedore injured,217082002,329286015,,32
+663731000006115,9,T4131,T413100,Fall due to watercraft accid - occ small powered boat inj,217082002,329286015,,32
+663741000006113,5,T4130,T413000,Fall due to watercraft accid - occ small unpowered boat inj,217082002,329286015,,32
+663751000006110,6,T413y,T413y00,Fall due to watercraft accid - other specified person inj,217082002,329286015,,32
+663761000006112,2,T4133,T413300,Fall due to watercraft accid - passenger oth watercraft inj,217082002,329286015,,32
+663771000006117,1,T4135,T413500,Fall due to watercraft accid - swimmer injured,217082002,329286015,,32
+663781000006119,2,T413z,T413z00,Fall due to watercraft accid - unspecified person injured,217082002,329286015,,32
+663791000006116,20,T4134,T413400,Fall due to watercraft accid - water skier injured,217082002,329286015,,32
+901061000006110,20000,TC5-99,TC5..99,Fall - on same level,217154006,901061000006110,,32
+991201000006117,10,TC-99,TC...99,Accidental fall NOS,217082002,991201000006117,,32
+1817091000006116,1000,R01z6,R01z600,[D]Tendency to fall,161898004,252318014,,27

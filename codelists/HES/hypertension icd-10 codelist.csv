@@ -1,0 +1,16 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+I10,I10X,DEFAULT,3,Essential (primary) hypertension,,,,NA,NA,NA,
+I11.0,I110,DEFAULT,3,Hypertensive heart disease with (congestive) heart failure,,,,NA,NA,NA,
+I11.9,I119,DEFAULT,3,Hypertensive heart disease without (congestive) heart failure,,,,NA,NA,NA,
+I12.0,I120,DEFAULT,3,Hypertensive renal disease with renal failure,,,,NA,NA,NA,
+I12.9,I129,DEFAULT,3,Hypertensive renal disease without renal failure,,,,NA,NA,NA,
+I13.0,I130,DEFAULT,3,Hypertensive heart and renal disease with (congestive) heart failure,,,,NA,NA,NA,
+I13.10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+I13.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+I13.2,I132,DEFAULT,3,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,,,,NA,NA,NA,
+I15.0,I150,DEFAULT,3,Renovascular hypertension,,,,NA,NA,NA,
+I15.1,I151,DEFAULT,3,Hypertension secondary to other renal disorders,,,,NA,NA,NA,
+I15.2,I152,DEFAULT,3,Hypertension secondary to endocrine disorders,,,,NA,NA,NA,
+I15.8,I158,DEFAULT,3,Other secondary hypertension,,,,NA,NA,NA,
+I15.9,I159,DEFAULT,3,"Secondary hypertension, unspecified",,,,NA,NA,NA,
+I67.4,I674,DEFAULT,3,Hypertensive encephalopathy,,,,NA,NA,NA,

@@ -1,0 +1,74 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid,cholesterol_type,code_type
+186091018,400000,44PH,44PH.00,Total cholesterol measurement,121868005,186091018,,34,total,measurement
+259227014,400000,44P1,44P1.00,Serum cholesterol normal,166828006,259227014,,34,total,measurement
+259228016,200000,44P2,44P2.00,Serum cholesterol borderline,166829003,259228016,,34,total,measurement
+259229012,2000000,44P3,44P3.00,Serum cholesterol raised,166830008,259229012,,34,total,high
+259230019,50000,44P4,44P4.00,Serum cholesterol very high,166831007,259230019,,34,total,high
+259232010,70000000,44P5,44P5.00,Serum high density lipoprotein cholesterol level,1005681000000107,2577901000000110,,34,dhl,measurement
+259233017,40000000,44P6,44P6.00,Serum low density lipoprotein cholesterol level,1022191000000100,2566581000000116,,34,ldl,measurement
+259239018,100000,44P9,44P9.00,Serum cholesterol studies,1026441000000100,2599591000000110,,34,total,measurement
+259242012,300000,44PB,44PB.00,Serum fasting HDL (high density lipoprotein) cholesterol level,1026451000000102,2599931000000119,,34,hdl,measurement
+259243019,100000,44PC,44PC.00,Serum random HDL (high density lipoprotein) cholesterol level,1026461000000104,2599971000000117,,34,hdl,measurement
+259246010,300000,44PD,44PD.00,Serum fasting LDL (low density lipoprotein) cholesterol level,1026471000000106,2599941000000111,,34,ldl,measurement
+259247018,100000,44PE,44PE.00,Serum random LDL (low density lipoprotein) cholesterol level,1026481000000108,2599981000000115,,34,ldl,measurement
+259250015,20000000,44PF,44PF.00,Total cholesterol:HDL (high density lipoprotein) ratio,1028551000000102,2602701000000112,,34,total_hdl_ratio,measurement
+259252011,200000,44PZ,44PZ.00,Serum cholesterol NOS,1005671000000105,2551271000000118,,34,total,measurement
+259564016,30000,44d2,44d2.00,Plasma random HDL (high density lipoprotein) cholesterol level,1028831000000106,2600041000000114,,34,hdl,measurement
+259567011,40000,44d3,44d3.00,Plasma fasting HDL (high density lipoprotein) cholesterol level,1028841000000102,2600031000000117,,34,hdl,measurement
+259569014,20000,44d4,44d4.00,Plasma random LDL (low density lipoprotein) cholesterol level,1028851000000104,2600051000000112,,34,ldl,measurement
+259570010,50000,44d5,44d5.00,Plasma fasting LDL (low density lipoprotein) cholesterol level,1028861000000101,2600061000000110,,34,ldl,measurement
+457911015,400000,44l2,44l2.00,Cholesterol/HDL ratio,313811003,457911015,,34,total_hdl_ratio,measurement
+458249011,40000000,44lF,44lF.00,Serum cholesterol/high density lipoprotein ratio,1015681000000109,2574851000000110,,34,total_hdl_ratio,measurement
+458252015,1000000,44lG,44lG.00,Plasma cholesterol/HDL (high density lipoprotein) ratio,1015691000000106,2557701000000111,,34,total_hdl_ratio,measurement
+458313013,3000000,44dA,44dA.00,Plasma HDL (high density lipoprotein) cholesterol level,1010581000000101,2557051000000110,,34,hdl,measurement
+458314019,2000000,44dB,44dB.00,Plasma LDL (low density lipoprotein) cholesterol level,1010591000000104,2586471000000117,,34,ldl,measurement
+1484985012,3000000,44OE,44OE.00,Plasma total cholesterol level,1017161000000104,2552911000000113,,34,total,measurement
+1488764011,10000000,44PI,44PI.00,Calculated LDL (low density lipoprotein) cholesterol level,1014501000000104,2552501000000118,,34,ldl,measurement
+2478443019,7000000,44PJ,44PJ.00,Serum total cholesterol level,994351000000103,2581451000000115,,34,total,measurement
+34521000033114,700,DRGC406,,Cholesterol,84698008,34521000033114,,31,total,measurement
+150921000006118,80000000,44P,44P..00,Serum cholesterol level,1005671000000105,2551271000000118,,34,total,measurement
+405621000000116,50000,44PK,44PK.00,Serum fasting total cholesterol level,1083761000000106,2715881000000113,,34,total,measurement
+551861000006118,300000,6879-1,6879.11,Cholesterol screen,1015881000000105,2583111000000110,,34,total,measurement
+667191000006111,400000,EGTON456,,Fasting serum cholesterol,667191000006107,667191000006111,,34,total,measurement
+735661000006117,400,C320-3,C320.13,Low density lipoproteinaemia,398036000,1783622013,,32,ldl,measurement
+855771000006118,100000,EGTONHD1,,HDL cholesterol level,855771000006102,855771000006118,,34,hdl,measurement
+856761000006115,5000,EMISTCH,,TC/HDL ratio,856761000006104,856761000006115,,34,total_hdl_ratio,measurement
+857141000006116,200000,EGTONLD1,,LDL cholesterol level,857141000006100,857141000006116,,34,ldl,measurement
+1822511000006110,100000,EMISREQ|44P5.,44P5.00,Test request : Serum HDL cholesterol level,1822511000006106,1822511000006110,,46,hdl,measurement
+1879211000006117,90000,EMISREQ|44P..,44P..00,Test request : Serum cholesterol,1879211000006101,1879211000006117,,46,total,measurement
+2650121000006116,200,^ESCTHI265012,,High density lipoprotein,9422000,16513016,,31,hdl,measurement
+2650141000006111,300,^ESCTHD265014,,HDL,9422000,16515011,,31,hdl,measurement
+2716221000006111,70,^ESCTHI271622,,High cholesterol,13644009,3035252016,,32,total,measurement
+2783851000006110,20,^ESCTHD278385,,HDL measurement,17888004,195851010,,31,hdl,measurement
+2854331000006115,40,^ESCTLO285433,,Low density lipoprotein,22244007,37344013,,31,ldl,measurement
+2854351000006110,200,^ESCTLD285435,,LDL,22244007,37346010,,31,ldl,measurement
+2949971000006113,600,^ESCTHI294997,,High density lipoprotein cholesterol measurement,28036006,46931018,,31,hdl,measurement
+2950001000006114,8,^ESCTHD295000,,HDL - High density lipoprotein cholesterol level,28036006,483733018,,31,hdl,measurement
+3877651000006116,2000,^ESCTCH387765,,Cholesterol,84698008,140417016,,31,total,measurement
+4079571000006118,200,^ESCTHD407957,,HDL cholesterol,102737005,166116016,,31,hdl,measurement
+4079621000006115,200,^ESCTLD407962,,LDL cholesterol,102739008,166118015,,31,ldl,measurement
+4217651000006116,200,^ESCTLO421765,,Low density lipoprotein cholesterol measurement,113079009,186163011,,31,ldl,measurement
+4217681000006112,9,^ESCTLD421768,,LDL - Low density lipoprotein cholesterol level,113079009,380428016,,31,ldl,measurement
+4600201000006115,30,^ESCTSE460020,,Serum HDL cholesterol measurement,166832000,259231015,,31,hdl,measurement
+4600211000006117,60,^ESCTSE460021,,Serum HDL cholesterol level,166832000,259232010,,31,hdl,measurement
+4600231000006111,9,^ESCTSE460023,,Serum LDL cholesterol measurement,166833005,259234011,,31,ldl,measurement
+4600241000006118,40,^ESCTSE460024,,Serum LDL cholesterol level,166833005,259233017,,31,ldl,measurement
+4600421000006112,4,^ESCTTO460042,,Total cholesterol:HDL ratio measurement,166842003,259249015,,31,total_hdl_ratio,measurement
+4600431000006110,100,^ESCTTO460043,,Total cholesterol:HDL ratio,166842003,259250015,,31,total_hdl_ratio,measurement
+5415701000006110,1,^ESCTHD541570,,HDL1 - High density lipoprotein subfraction 1,259558007,386543013,,31,hdl,measurement
+6036221000006115,1000,^ESCTCH603622,,Cholesterol/HDL ratio measurement,313811003,457910019,,34,total_hdl_ratio,measurement
+6040951000006115,20,^ESCTSE604095,,Serum cholesterol/HDL ratio,313989009,458249011,,31,total_hdl_ratio,measurement
+6052931000006111,30,^ESCTFA605293,,Fasting cholesterol level,315017003,459479011,,34,total,measurement
+6279041000006119,100,^ESCTSE627904,,Serum cholesterol level,365794002,489235016,,31,total,measurement
+6550661000006112,10,^ESCTCA655066,,Calculated LDL cholesterol level,395065005,1488764011,,31,ldl,measurement
+6831591000006111,20,^ESCTSE683159,,Serum total cholesterol measurement,412808005,2474364010,,34,total,measurement
+6831601000006115,30,^ESCTSE683160,,Serum total cholesterol level,412808005,2478443019,,34,total,measurement
+7261561000006118,800,^ESCTSE726156,,Serum cholesterol borderline high,442234001,2820789017,,34,total,high
+7263101000006113,5,^ESCTSE726310,,Serum cholesterol borderline low,442350007,2819746011,,34,total,measurement
+8290381000006115,2000,^ESCTCH829038,,Cholesterol level,850981000000101,2204831000000119,,34,total,measurement
+8292941000006114,2000,^ESCTTO829294,,Total cholesterol level,853681000000104,2210431000000111,,34,total,measurement
+8385731000006118,60,^ESCTSE838573,,Serum HDL (high density lipoprotein) cholesterol level,1005681000000107,2607231000000110,,34,hdl,measurement
+8396611000006112,1,^ESCTSE839661,,Serum cholesterol/HDL (high density lipoprotein) ratio,1015681000000109,2607531000000112,,34,total_hdl_ratio,measurement
+12622321000006118,9,^ESCT1262232,,HDL (high density lipoprotein) cholesterol substance concentration in serum,1107681000000108,2771791000000114,,34,hdl,measurement
+12623411000006112,10,^ESCT1262341,,LDL-C (low density lipoprotein cholesterol) substance concentration in serum,1108551000000102,2774161000000118,,34,ldl,measurement
+12716491000006111,600,^ESCT1271649,,Serum cholesterol borderline,166829003,259228016,,34,total,measurement

@@ -1,0 +1,163 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+10843018,600000,S30,S30..00,Fracture of neck of femur,5913000,10843018,,32
+125993015,400000,S23,S23..00,Fracture of radius AND ulna,75857000,125993015,,32
+133435011,4000,S2351,S235100,Open Colles' fracture,80411001,133435011,,32
+216206018,50000,N331M,N331M00,Pathological fracture due to osteoporosis,443165006,2837900019,,32
+277185016,5000,7K1L4,7K1L400,Closed reduction of fracture of hip,179159005,277185016,,32
+277199017,40000,7K1LL,7K1LL00,Closed reduction of fracture of radius and/or ulna,179172006,1489754013,,32
+311305016,2000,N1y1,N1y1.00,Fatigue fracture of vertebra,202831001,311305016,,32
+312617013,2000,Nyu67,Nyu6700,Fracture of vertebral column,50448004,84047017,,32
+312681016,500,NyuB0,NyuB000,[X]Other osteoporosis with pathological fracture,443165006,2837900019,,32
+312689019,2000,NyuB8,NyuB800,[X]Unspecified osteoporosis with pathological fracture,443165006,2837900019,,32
+318353013,1000,S1000,S100000,Closed fracture of unspecified cervical vertebra,269062008,402833017,,32
+318384010,800,S100H,S100H00,"Closed fracture cervical vertebra, wedge",207904007,318384010,,32
+318386012,1000,S100K,S100K00,"Closed fracture cervical vertebra, spinous process",207906009,318386012,,32
+318391013,1000,S100z,S100z00,Closed fracture of cervical spine not otherwise specified,269062008,402833017,,32
+318435018,20000,S102,S102.00,Closed fracture thoracic vertebra,207938004,318435018,,32
+318436017,800,S1020,S102000,"Closed fracture thoracic vertebra, burst",207939007,318436017,,32
+318437014,40000,S1021,S102100,"Closed fracture thoracic vertebra, wedge",207940009,318437014,,32
+318443011,300,S102y,S102y00,Other specified closed fracture thoracic vertebra,207938004,318435018,,32
+318445016,1000,S102z,S102z00,Closed fracture thoracic vertebra not otherwise specified,207938004,318435018,,32
+318448019,200,S1031,S103100,"Open fracture thoracic vertebra, wedge",207951009,318448019,,32
+318454018,40000,S104,S104.00,Closed fracture lumbar vertebra,207957008,318454018,,32
+318455017,2000,S1040,S104000,"Closed fracture lumbar vertebra, burst",207958003,318455017,,32
+318456016,40000,S1041,S104100,"Closed fracture lumbar vertebra, wedge",207959006,318456016,,32
+318457013,100,S1042,S104200,"Closed fracture lumbar vertebra, spondylolysis",207960001,318457013,,32
+318482013,1000,S10A0,S10A000,Fracture of first cervical vertebra,207983003,318482013,,32
+318485010,2000,S10B,S10B.00,Fracture of lumbar spine and pelvis,207986006,318485010,,32
+318492017,1000,S10B6,S10B600,Multiple fractures of lumbar spine and pelvis,207993005,318492017,,32
+318495015,3000,S10z,S10z.00,Fracture of spine without mention of spinal cord lesion NOS,269061001,402831015,,32
+318528011,500,S112,S112.00,Closed fracture of thoracic spine with spinal cord lesion,208026008,318528011,,32
+318556018,1000,S114,S114.00,Closed fracture of lumbar spine with spinal cord lesion,208054001,318556018,,32
+318562011,40,S1145,S114500,Closed spinal fracture with cauda equina lesion,208060001,318562011,,32
+318725011,6000,S150,S150.00,Multiple fractures of thoracic spine,208215006,318725011,,32
+318838011,5000,S2340,S234000,"Closed fracture of forearm, lower end, unspecified",33192001,55392016,,32
+318880010,100,S2351-1,S235111,Smith's fracture - open,208340001,318880010,,32
+318910019,400,S23y,S23y.00,"Open fracture of radius and ulna, unspecified part",81966000,135964010,,32
+318912010,400,S23y1,S23y100,"Open fracture of radius (alone), unspecified",12676007,21770014,,32
+318914011,1000,S23yz,S23yz00,Open fracture of radius AND ulna,81966000,135964010,,32
+318915012,50000,S23z,S23z.00,"Fracture of radius and ulna, NOS",75857000,125994014,,32
+319084014,1000,S300,S300.00,"Closed fracture proximal femur, transcervical",208521006,319084014,,32
+319086011,40,S3001,S300100,"Closed fracture proximal femur, transepiphyseal",208523009,319086011,,32
+319090013,2000,S3004,S300400,Closed fracture head of femur,208526001,319090013,,32
+319092017,200,S3006,S300600,"Closed fracture proximal femur, subcapital, Garden grade I",208528000,319092017,,32
+319093010,100,S3007,S300700,"Closed fracture proximal femur, subcapital, Garden grade II",208529008,319093010,,32
+319095015,200,S3009,S300900,"Closed fracture proximal femur, subcapital, Garden grade IV",208531004,319095015,,32
+319108013,50,S3015,S301500,"Open fracture proximal femur,subcapital, Garden grade unspec",208540000,319108013,,32
+319118015,2000,S302,S302.00,"Closed fracture of proximal femur, pertrochanteric",208548007,319118015,,32
+319123015,500,S3021,S302100,"Closed fracture proximal femur, intertrochanteric, two part",208550004,319123015,,32
+319124014,2000,S3022,S302200,"Closed fracture proximal femur, subtrochanteric",208551000,319124014,,32
+319128012,50,S303,S303.00,"Open fracture of proximal femur, pertrochanteric",208555009,319128012,,32
+319134017,50,S3032,S303200,"Open fracture proximal femur, subtrochanteric",208558006,319134017,,32
+319138019,1000,S304,S304.00,Pertrochanteric fracture,208562000,319138019,,32
+319145019,400,S30z,S30z.00,Open fracture of neck of femur,361119006,477343011,,32
+319146018,60000,S31,S31..00,Fracture of femur,71620000,118977010,,32
+319152017,100,S310z,S310z00,"Closed fracture of shaft or unspecified part, NOS",71620000,118977010,,32
+319153010,500,S311,S311.00,"Open fracture of femur, shaft or unspecified part",71620000,118977010,,32
+319154016,300,S3110,S311000,"Open fracture of femur, unspecified part",71620000,118977010,,32
+319155015,30,S311z,S311z00,"Open fracture of femur, shaft or unspecified part, NOS",71620000,118977010,,32
+319180015,200000,S31z,S31z.00,"Fracture of femur, NOS",71620000,118978017,,32
+319532011,1000,S450,S450.00,Closed traumatic dislocation of hip,208892001,319532011,,32
+319533018,700,S4500,S450000,"Closed traumatic dislocation of hip, unspecified",208892001,319532011,,32
+319537017,300,S450z,S450z00,Closed traumatic dislocation of hip not otherwise specified,208892001,319532011,,32
+325439014,100,Syu72,Syu7200,[X]Fractures of other parts of femur,71620000,118977010,,32
+358600013,30000,7K1D0-E,7K1D01E,DHS - Dynamic hip screw primary fixation of neck of femur,239285007,358599010,,32
+359833013,60000,N331-4,N331.14,Osteoporotic vertebral collapse,240198002,359833013,,32
+391347010,700000,S23x1-1,S23x111,Fracture of radius,12676007,21770014,,32
+391354016,200000,S23B,S23B.00,Fracture of lower end of radius,263199001,391354016,,32
+391366010,6000,S23C,S23C.00,Fracture of lower end of both ulna and radius,263208005,391366010,,32
+391382011,200,S3100-2,S310012,Upper leg fracture NOS,71620000,118977010,,32
+391384012,100000,S30-1,S30..11,Hip fracture,263225007,391384012,,32
+391392015,5000,S305,S305.00,Subtrochanteric fracture,263229001,391392015,,32
+391393013,10000,S30y-1,S30y.11,Hip fracture NOS,263225007,391384012,,32
+402831015,9000,S10-2,S10..12,Fracture of vertebra without spinal cord lesion,269061001,402831015,,32
+402832010,20000,S10,S10..00,Fracture of spine without mention of spinal cord injury,269061001,402832010,,32
+402833017,20000,S100,S100.00,Closed fracture of cervical spine,269062008,402833017,,32
+402838014,1000,S1005,S100500,Closed fracture of fifth cervical vertebra,269067002,402838014,,32
+402839018,1000,S1006,S100600,Closed fracture of sixth cervical vertebra,269068007,402839018,,32
+402840016,2000,S1007,S100700,Closed fracture of seventh cervical vertebra,269069004,402840016,,32
+402859019,300000,S2341,S234100,Closed Colles' fracture,269083002,402859019,,32
+402869013,200,S300y,S300y00,"Closed fracture proximal femur, other transcervical",208521006,319084014,,32
+402874017,40000,S30y,S30y.00,Closed fracture of neck of femur,359820003,475220015,,32
+405144016,1000,N3311,N331100,Pathological fracture of lumbar vertebra,270508006,405144016,,32
+411305015,2000,S300y-1,S300y11,"Closed fracture of femur, subcapital",275338001,411305015,,32
+411307011,7000,S3020-1,S302011,"Closed fracture of femur, greater trochanter",275340006,411307011,,32
+411310016,200,S3030-1,S303011,"Open fracture of femur, greater trochanter",275343008,411310016,,32
+455433012,200,N331H,N331H00,Collapse of cervical vertebra due to osteoporosis,311806008,455433012,,32
+455444016,2000,S1500,S150000,Closed multiple fractures of thoracic spine,311814002,455444016,,32
+455534015,4000,N331J,N331J00,Collapse of lumbar vertebra due to osteoporosis,311890007,455534015,,32
+455535019,4000,N331K,N331K00,Collapse of thoracic vertebra due to osteoporosis,311891006,455535019,,32
+455536018,3000,N331L,N331L00,Collapse of vertebra due to osteoporosis,240198002,2920899019,,32
+485443016,40000,S234,S234.00,"Closed fracture of radius and ulna, lower end",33192001,485443016,,32
+1220723013,50000,S15,S15..00,Fracture of thoracic vertebra,125607007,1220723013,,32
+1485119015,30000,14G6,14G6.00,H/O: fragility fracture,391092009,1485119015,,32
+1485120014,4000,14G7,14G7.00,H/O: hip fracture,391093004,1485120014,,32
+1485121013,30000,14G8,14G8.00,H/O: vertebral fracture,391094005,1485121013,,32
+1490703015,40000,S2346,S234600,"Closed fracture radius and ulna, distal",33192001,1490703015,,32
+40871000006119,200,N331A,N331A00,Osteoporosis with pathological fracture of cervical vertebrae,203452006,312164012,,32
+44341000006111,60,S3010,S301000,"Opn # proximal femur, intracapsular section, unspecified",5913000,10843018,,32
+52291000006115,400,S2357,S235700,Open Smith's fracture,208340001,318880010,,32
+105741000006114,1000,S3100-1,S310011,Thigh fracture NOS,71620000,118977010,,32
+159481000006117,10,7K1JE,7K1JE00,Rvsn to cls red+int fxn prox fem #+screw/nail device alone,179106008,277126018,,32
+159511000006113,60,7K1H8,7K1H800,Revision to open reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,179067004,277080012,,32
+166961000006116,500,7K1HS,7K1HS00,Revision open reduction and fixation of fracture,311426001,454997014,,32
+167971000006114,60,7K1J8,7K1J800,Revisn to int fxn(no red) prox fem #+screw/nail device alone,179102005,277122016,,32
+167981000006112,60,7K1JA,7K1JA00,Revision to internal fixation(without reduction) of proximal femoral fracture with screw/nail and plate device,179102005,277122016,,32
+167991000006110,100,7K1H6,7K1H600,Revsn to opn red+int fxtn prox fem #+screw/nail device alone,311426001,454997014,,32
+207601000006111,1000,7K1D6,7K1D600,Open reduction of fracture of femur with internal fixation,57470004,95576017,,32
+207611000006114,20000,7K1D0,7K1D000,Primary open reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,265132005,393775016,,32
+208591000006116,70,7K1D0-3,7K1D013,Primary open reduction of fracture of neck of femur and open fixation using Deyerle multiple hip pinning,239281003,358595016,,32
+208601000006112,100,7K1D0-2,7K1D012,Primary open reduction of fracture of neck of femur and open fixation using Charnley compression screw,239284006,358598019,,32
+208611000006110,100,7K1D0-D,7K1D01D,Prim op red # nck femur & op fix- Zickel intramed nail plate,265132005,393775016,,32
+208641000006114,50,7K1D0-7,7K1D017,Prim open red # neck femur & op fix - McLaughlin nail plate,265132005,393775016,,32
+208671000006118,100,7K1D0-1,7K1D011,Prim open reduct # neck femur & op fix - Blount nail plate,265132005,393775016,,32
+208681000006115,200,7K1D0-4,7K1D014,Primary open reduction of fracture of neck of femur and open fixation using Holt nail,239291009,358607011,,32
+208691000006117,30,7K1D0-5,7K1D015,Prim open reduct # neck femur & op fix - Jewett nail plate,265132005,393775016,,32
+208701000006117,5,7K1D0-6,7K1D016,Prim open reduct # neck femur & op fix - Massie nail plate,265132005,393775016,,32
+208711000006119,9,7K1D0-8,7K1D018,Prim open reduct # neck femur & op fix - Neufield nail plate,265132005,393775016,,32
+208721000006110,20,7K1D0-9,7K1D019,Prim open reduct # neck femur & op fix - Pugh nail plate,265132005,393775016,,32
+208731000006113,100,7K1D0-A,7K1D01A,Primary open reduction of fracture of neck of femur and open fixation using Richards screw,239286008,358601012,,32
+208741000006115,50,7K1D0-B,7K1D01B,Primary open reduction of fracture of neck of femur and open fixation using Ross Brown nail,239292002,358608018,,32
+208751000006118,50,7K1D0-C,7K1D01C,Prim open reduct # neck femur & op fix - Thornton nail plate,265132005,393775016,,32
+210031000006112,200,7K1JB,7K1JB00,Closed reduction of fracture of femur with internal fixation,272300006,407419015,,32
+210041000006119,100,7K1JD,7K1JD00,Primary closed reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,179105007,277125019,,32
+210941000006118,300,7K1J6,7K1J600,Primary internal fixation(without reduction) of proximal femoral fracture with screw/nail and intramedullary device,179097007,277117016,,32
+256101000006113,80,S4E1,S4E1.00,"Open fracture-dislocation, hip joint",209336001,320034014,,32
+257831000006114,700,S23y3,S23y300,Open fracture of the radius and ulna,81966000,135964010,,32
+258191000006119,8,S303z,S303z00,"Open fracture of proximal femur, pertrochanteric, NOS",208555009,319128012,,32
+258471000006114,200,S3034,S303400,Open intertrochanteric fracture,26938002,45058017,,32
+265421000006113,60,S3030,S303000,"Open # of proximal femur, trochanteric section, unspecified",5913000,10843018,,32
+531681000006111,600,S1006-1,S100611,Closed fracture of sixth cervical vertebra without spinal cord injury,8303001,14689016,,32
+545121000000114,400000,N331N,N331N00,Fragility fracture,306171000000106,545121000000114,,32
+556881000000111,400,N331M-1,N331M11,Minimal trauma fracture due to unspecified osteoporosis,443165006,2837900019,,32
+557111000000111,200,N331N-1,N331N11,Minimal trauma fracture,306171000000106,557111000000111,,32
+557961000006116,1000,7K1J0-1,7K1J011,Cl red intracaps frac neck femur fix-Garden cannulated screw,708898008,3037770015,,32
+557971000006111,200,7K1J0-2,7K1J012,Closed reduction of intracapsular fracture of neck of femur and fixation using Smith-Petersen nail,239290005,358606019,,32
+562981000006117,10000,S3024,S302400,Closed intertrochanteric fracture,89820008,148902010,,32
+563961000006116,100,S112z,S112z00,Closed fracture of thoracic spine with cord lesion NOS,208026008,318528011,,32
+564491000006115,100,S300z,S300z00,"Closed fracture proximal femur, transcervical, NOS",208521006,319084014,,32
+565451000006113,3000,S4E0,S4E0.00,"Closed fracture dislocation, hip joint",209335002,320033015,,32
+565801000006112,200,S4E2,S4E2.00,"Closed fracture-subluxation, hip joint",209337005,320035010,,32
+567461000006115,10000,7K1Jd,7K1Jd00,Closed reduction of intracapsular fracture of neck of femur and internal fixation using a dynamic hip screw,313330006,457218015,,32
+570531000006119,70,S302z,S302z00,"Cls # of proximal femur, pertrochanteric section, NOS",208548007,319118015,,32
+570541000006112,3000,S3000,S300000,Closed fracture of intracapsular section of femur,20100009,33823015,,32
+570551000006114,1000,S3005,S300500,"Cls # prox femur, subcapital, Garden grade unspec.",275338001,411305015,,32
+570561000006111,300,S3023,S302300,"Closed fracture proximal femur, intertrochanteric, comminuted",208552007,319125010,,32
+570571000006116,3000,S3020,S302000,"Cls # proximal femur, trochanteric section, unspecified",208548007,319118015,,32
+570611000006114,500,7K1J0-3,7K1J013,Closed reduction and internal fixation of proximal femoral fracture with Richard's cannulated hip screw,239288009,358603010,,32
+570621000006118,2000,7K1J0,7K1J000,Closed reduction of fracture of proximal femur and internal fixation using bone screw,708898008,3037770015,,32
+632911000006110,20000,7K1D0-F,7K1D01F,Primary open reduction of fracture of neck of femur and open fixation using dynamic hip screw,239285007,358599010,,32
+793901000006115,500,S4E,S4E..00,Fracture dislocation or subluxation hip,209334003,320032013,,32
+875731000006118,300,7K1LL-99,7K1LL99,Closed reduction-# radius/ulna,179172006,875731000006118,,32
+895271000006115,500,S100-99,S100.99,#Cervical spine-no cord lesion,269062008,895271000006115,,32
+895281000006117,700,S102-99,S102.99,#Thoracic spine-no cord lesion,207938004,895281000006117,,32
+895291000006119,1000,S104-99,S104.99,#Lumbar spine - no cord lesion,207957008,895291000006119,,32
+895331000006114,80,S112-99,S112.99,#Thoracic spine + cord lesion,208026008,895331000006114,,32
+895341000006116,40,S114-99,S114.99,#Lumbar spine + cord lesion,208054001,895341000006116,,32
+895521000006118,20000,S23-99,S23..99,#Radius/ulna,75857000,895521000006118,,32
+895551000006110,10000,S2341-98,S234198,#Radius/ulna-lower end-colles,269083002,895551000006110,,32
+895561000006112,10000,S2341-99,S234199,Colles fracture,269083002,895561000006112,,32
+895691000006117,10000,S30-99,S30..99,#Neck of femur,5913000,895691000006117,,32
+990941000006118,2,S10-99,S10..99,#Spine NOS - no cord lesion,269061001,990941000006118,,32
+991021000006118,10,S23-98,S23..98,#Radius/ulna NOS,75857000,991021000006118,,32
+1702401000006118,60,7K1Y0,7K1Y000,Revision to closed reduction and internal fixation of proximal femoral fracture with screw/nail device alone,179106008,277126018,,32

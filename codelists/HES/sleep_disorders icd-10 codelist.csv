@@ -1,0 +1,9 @@
+code,alt_code,usage,usage_uk,description,modifier_4,modifier_5,qualifiers,gender_mask,min_age,max_age,tree_description
+F51,F51,DEFAULT,3,Nonorganic sleep disorders,,,,NA,NA,NA,
+F51.0,F510,DEFAULT,3,Nonorganic insomnia,,,,NA,NA,NA,
+F51.8,F518,DEFAULT,3,Other nonorganic sleep disorders,,,,NA,NA,NA,
+F51.9,F519,DEFAULT,3,"Nonorganic sleep disorder, unspecified",,,,NA,NA,NA,
+G47,G47,DEFAULT,3,Sleep disorders,,,,NA,NA,NA,
+G47.0,G470,DEFAULT,3,Disorders of initiating and maintaining sleep [insomnias],,,,NA,NA,NA,
+G47.8,G478,DEFAULT,3,Other sleep disorders,,,,NA,NA,NA,
+G47.9,G479,DEFAULT,3,"Sleep disorder, unspecified",,,,NA,NA,NA,

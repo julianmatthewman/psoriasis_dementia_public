@@ -1,0 +1,4 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+257200015,60000,423Z,423Z.00,Haemoglobin estimation NOS,1022431000000105,2553471000000116,,11
+411758010,700000,423-1,423..11,Hb estimation,1022431000000105,2553471000000116,,11
+813551000006113,100000000,423,423..00,Haemoglobin estimation,1022431000000105,2553471000000116,,11
