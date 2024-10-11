@@ -173,9 +173,7 @@ alg_smoking <- function(cohort_matched, smok_eventdata) {
     ftransform(abs_distance=abs(distance)) |> 
     roworder(abs_distance) |> 
     fgroup_by(patid, exposed) |> 
-    fsummarise(smoking_status=ifelse(any(distance < 365 & distance > -31), first(smokstatus[distance < 365 & distance > -31]),
-                            ifelse(any(distance >= -31 & distance < -365), first(smokstatus[distance >= -31 & distance < -365]),
-                                   ifelse(any(distance > 0), first(smokstatus[distance > 0]), NA)))) |> 
+    fsummarise(smoking_status=first(smokstatus[distance>=0])) |> 
     fungroup() |> 
     ftransform(smoking_status=factor(smoking_status, levels=c("non-smoker", "current smoker", "ex-smoker", "current or ex-smoker"))) |> 
     ftransform(smoking_status=fct_collapse(smoking_status, non_smoker="non-smoker", smoker=c("current smoker", "ex-smoker", "current or ex-smoker")))
@@ -220,9 +218,7 @@ alg_bmi <- function(cohort_matched, bmi_eventdata) {
     ftransform(abs_distance=abs(distance)) |> 
     roworder(abs_distance) |> 
     fgroup_by(patid, exposed) |> 
-    fsummarise(value=ifelse(any(distance < 365 & distance > -31), first(value[distance < 365 & distance > -31]),
-                            ifelse(any(distance >= -31 & distance < -365), first(value[distance >= -31 & distance < -365]),
-                                   ifelse(any(distance > 0), first(value[distance > 0]), NA)))) |> 
+    fsummarise(value=first(value[distance>=0])) |> 
     fungroup() |> 
     fselect(patid, exposed, weight_in_kg=value)
   
@@ -233,9 +229,7 @@ alg_bmi <- function(cohort_matched, bmi_eventdata) {
     ftransform(abs_distance=abs(distance)) |>
     roworder(abs_distance) |>
     fgroup_by(patid, exposed) |> 
-    fsummarise(value=ifelse(any(distance < 365 & distance > -31), first(value[distance < 365 & distance > -31]),
-                            ifelse(any(distance >= -31 & distance < -365), first(value[distance >= -31 & distance < -365]),
-                                   ifelse(any(distance > 0), first(value[distance > 0]), NA)))) |> 
+    fsummarise(value=first(value[distance>=0])) |> 
     fungroup() |> 
     select(patid, exposed, bmi_recorded=value)
   
